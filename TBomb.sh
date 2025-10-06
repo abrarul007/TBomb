@@ -21,7 +21,7 @@ detect_distro() {
 }
 
 pause() {
-    read -n1 -r -p "Press any key to continue..." key
+    read -n1 -r -p "Press any key to continue...." key
 }
 banner() {
     clear
